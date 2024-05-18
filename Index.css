@@ -1,0 +1,85 @@
+.Header{
+    background: linear-gradient(to right, #1d00c0, white);
+    display: flex;
+    justify-content: space-between;
+}
+.Header-L-T{
+    padding-left: 40px;
+}
+.Header-R-T ul{
+    list-style: none;
+    color: black;
+    display: flex;
+    padding-top: 20px;
+    margin-right: -100px;
+}
+.Header-R-T ul,li,a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+}
+.Header-S{
+    padding-top: 20px;
+    padding-right: -20px;
+}
+.Header-S img{
+    width: 15px;
+    height: 15px;
+    padding-top: 10px;
+}
+.Header-S input{
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+    margin-top: 10px;
+    margin-right: -150px;
+}
+.Header-B{
+    margin-right: 90px;
+}
+.Header-B button{
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #1d00c0;
+    color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.Header-B button:hover{
+    color: #1d00c0;
+    background-color: white;
+}
+.T{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+.T-Text{
+    font-size: 25px;
+}
+.T-Img{
+    padding-right: 90px;
+}
+.Bot{
+    margin-top: 10px;
+    background-color: #1d00c0;
+    height: 400px;
+}
+.Bo-1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 50px;
+}
+.Bo-2{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 50px;
+}
